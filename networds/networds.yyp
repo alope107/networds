@@ -1,5 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"dot_obj","path":"objects/dot_obj/dot_obj.yy",},"order":0,},
+    {"id":{"name":"utility","path":"scripts/utility/utility.yy",},"order":3,},
+    {"id":{"name":"spawner_obj","path":"objects/spawner_obj/spawner_obj.yy",},"order":1,},
+    {"id":{"name":"control_obj","path":"objects/control_obj/control_obj.yy",},"order":2,},
+    {"id":{"name":"search","path":"scripts/search/search.yy",},"order":0,},
+    {"id":{"name":"hashset","path":"scripts/hashset/hashset.yy",},"order":2,},
+    {"id":{"name":"arrays","path":"scripts/arrays/arrays.yy",},"order":1,},
+    {"id":{"name":"dot_spr","path":"sprites/dot_spr/dot_spr.yy",},"order":1,},
+    {"id":{"name":"donut_obj","path":"objects/donut_obj/donut_obj.yy",},"order":3,},
+    {"id":{"name":"donut_spr","path":"sprites/donut_spr/donut_spr.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
